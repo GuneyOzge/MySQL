@@ -2,7 +2,7 @@
 
 Welcome to my Data Analysis Project! 👋
 
-I analyse datasets and create insights.
+I analyse the dataset and create insights.
 
 This project showcases my skills in data analysis, visualisation, and database management using SQL and spreadsheets. Projects demonstrate technical expertise and practical problem-solving across diverse datasets and business scenarios.
 

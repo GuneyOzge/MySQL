@@ -1,4 +1,4 @@
-# MySQL
+# Analysing Global Layoffs: A SQL-Based Data Analytics Project
 
 Welcome to my Data Analysis Project! 👋
 
